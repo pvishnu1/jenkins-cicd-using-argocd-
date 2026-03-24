@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: pvishnu1/cicd-demo:v20
+        image: pvishnu1/cicd-demo:v21
         ports:
         - containerPort: 8080
